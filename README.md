@@ -1,97 +1,159 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paulimti&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <h1>Hi there! I'm Imti Islam Paul 👋</h1>
-  <h3>Infotronics Systems Engineering Student | Python | Data Analytics | Software Development</h3>
+from pathlib import Path
 
-  <p align="center">
-    <a href="mailto:islampaul30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://linkedin.com/in/paulimti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/Paulimti"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
+readme_content = """<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Imti%20Islam%20Paul&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infotronics%20Systems%20Engineering%20%7C%20Python%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" alt="Header Banner" />
+
+<img src="https://komarev.com/ghpvc/?username=Paulimti&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building the connection between engineering systems, software, and data-driven solutions.
+
+I am an **Infotronics Systems Engineering student** at **Hochschule Rhein-Waal, Germany** with hands-on experience in Python programming, data analytics, regression modeling, robotics simulation, and practical software development.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:islampaul30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/paulimti">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Paulimti">
+  <img src="https://img.shields.io/badge/GitHub-Paulimti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </div>
 
 ---
 
-## 💻 About Me
+## 🧭 Profile Snapshot
 
-*   🎓 **Education:** Pursuing B.Sc. in **Infotronics Systems Engineering** at *Hochschule Rhein-Waal*, Germany.
-*   🔭 **Current Focus:** Building practical, data-driven applications and engineering solutions using Python, C/C++, and Java.
-*   🌱 **Learning Path:** Advanced regression modeling, robotics control algorithms, and production-ready software architecture.
-*   👯 **Looking For:** **Werkstudent (Working Student), Internships, or Junior roles** in Software Development, Data Analytics, or Systems Engineering.
-*   ⚡ **Fun Fact:** I love bridge-building—specifically, the bridge between hardware control systems and software-driven data analysis.
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Education
+
+**B.Sc. Infotronics Systems Engineering**  
+Hochschule Rhein-Waal, Germany  
+**2024 — Present**
+
+**Previous Study**  
+B.Tech Computer Science and Engineering  
+Lovely Professional University, India  
+**2022 — 2024**
+
+</td>
+<td width="50%">
+
+### 🎯 Current Direction
+
+- Software Development  
+- Data Analytics  
+- Regression Analysis  
+- Robotics Control Systems  
+- Python-based Engineering Tools  
+- Practical Industry Experience  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Am Focused On
 
-### 🧠 Programming & Software Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,html,css,git,vscode" alt="Skills Grid" />
-  </a>
+<table>
+<tr>
+<td width="33%">
+
+### 🔍 Learning
+
+Advanced Python, data analytics, regression modeling, and robotics-based software systems.
+
+</td>
+<td width="33%">
+
+### 🛠️ Building
+
+Practical academic and personal projects using Python, C, C++, Java, HTML, CSS, and SQL.
+
+</td>
+<td width="33%">
+
+### 🎯 Looking For
+
+Werkstudent, internship, or junior opportunities in software development, data analytics, or systems engineering.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technical Toolbox
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql&perline=8" alt="Programming Languages" />
 </p>
 
-### 📊 Data Science & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+### Web & Interface Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&perline=8" alt="Web Technologies" />
+</p>
+
+### Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Charts-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧪 Featured Work
 
-### 🔋 Energy Consumption Analysis & Prediction 
-* **Technologies:** `Python`, `Pandas`, `NumPy`, `Scikit-Learn`, `Matplotlib`, `Seaborn`
-* Developed a regression analysis model utilizing historical German temperature datasets to accurately forecast regional energy demands. 
-* Managed end-to-end data pipelines: cleaning, feature engineering, and evaluating model metrics via $R^2$ and RMSE scores.
-
-### 🤖 Robotic Arm Control Simulator
-* **Technologies:** `Python`, `Tkinter`, `OOP`, `Cryptography`, `Bcrypt`
-* Built a modular, object-oriented desktop simulator showcasing real-time animated joint controls for robotic operations.
-* Implemented industrial-grade security features, integrating secure user authentication and encrypted hardware command logs.
-
-### 🚌 Console-Based Bus Ticket Booking System
-* **Technologies:** `C Programming`, `File Handling`
-* Architected a robust CLI application utilizing structured programming and persistent file handling to process real-time seating configurations and customer reservations.
+| Project | Tech Stack | Summary |
+|---|---|---|
+| **Energy Consumption Analysis & Prediction** | Python, Pandas, NumPy, Regression Analysis, Matplotlib, Seaborn | Built a regression model to predict energy consumption using German temperature and energy datasets. Cleaned data, analyzed trends, evaluated model performance with R² and RMSE, and created visual insights. |
+| **Robotic Arm Control System** | Python, Tkinter, OOP, Encryption | Developed a robotic arm simulator with animated joint control, GUI-based interaction, secure authentication, encrypted command handling, and logging support. |
+| **Bus Ticket Booking System** | C Programming, File Handling | Created a console-based booking application with reservation, destination selection, data validation, and file handling features. |
+| **Complaint Management System** | HTML, CSS | Designed and developed a responsive complaint management website with structured user interface layouts. |
 
 ---
 
-## 💼 Experience
+## 💼 Experience Timeline
 
-### **Project Lead** | AudioCane 
-*Jan 2021 – Present*
-* Spearheaded the development of an assistive digital platform tailored for visually impaired end-users.
-* Coordinated cross-functional workflows for a global team of over 200 volunteers using Agile methodologies through Slack and Trello.
+```text
+2021 ─────────────── Present
+Project Lead | AudioCane
+• Developed a digital platform supporting visually impaired users
+• Coordinated 200+ volunteers
+• Managed project workflow using Slack and Trello
 
-### **Crew Member** | McDonald's Germany 
-*2025 – Present*
-* Maintained high efficiency, task prioritization, and operational quality under pressure in a fast-paced environment.
 
----
-
-## 🌍 Languages
-
-*   **English:** Professional / Academic Proficiency (IELTS C1)
-*   **German:** Basic / Everyday Proficiency (A2)
-*   **Bengali:** Native
-*   **Hindi:** Fluent
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Paulimti&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /><br><br>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulimti&theme=tokyonight" width="100%" /><br>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulimti&theme=tokyonight" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulimti&theme=tokyonight" width="48%" /><br>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paulimti&theme=tokyonight" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paulimti&theme=tokyonight&utcOffset=2" width="48%" />
-</div>
+2025 ─────────────── Present
+Crew Member | McDonald's Germany
+• Worked in a fast-paced customer-facing environment
+• Maintained service quality under pressure
