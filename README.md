@@ -4,8 +4,6 @@ readme_content = """<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Imti%20Islam%20Paul&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infotronics%20Systems%20Engineering%20%7C%20Python%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" alt="Header Banner" />
 
-<img src="https://komarev.com/ghpvc/?username=Paulimti&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 <br>
